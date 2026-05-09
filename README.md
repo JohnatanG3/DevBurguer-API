@@ -2,7 +2,7 @@
 
 Backend da aplicação **DevBurguer**, responsável por autenticação, gerenciamento de usuários, produtos, categorias, pedidos e integração com pagamentos.
 
-> Interface do projeto: [DevBurguer Frontend](SEU_LINK_REPOSITORIO_FRONT)
+> Interface do projeto: [DevBurguer Frontend](https://github.com/JohnatanG3/DevBurguer-Interface)
 
 ---
 
